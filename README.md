@@ -1,11 +1,12 @@
+![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Farhana Yesmin</h1>
-<h3 align="center">A passionate frontend developer ✨🎉🎀</h3>
+<h3 align="center">A passionate MERN Stack Developer. ✨🎉🎀</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhanayesmin2" alt="farhanayesmin2" /></a> </p>
 
 - 🔭 I’m currently working on **makeup-website**
 
-- 🌱 I’m currently learning **React native,Node js.**
+- 🌱 I’m currently learning **React js,Node js.**
 
 - 👨‍💻 All of my projects are available at [loading...](loading...)
 
