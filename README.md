@@ -1,4 +1,4 @@
-![logo]((https://github.com/Farhanayesmin2/Farhanayesmin2/blob/main/(phone)%20%2B880-1704-749994%20(%20farhanayesmin9966%40gmail.com%20(1).jpg)
+![logo](https://github.com/Farhanayesmin2/Farhanayesmin2/blob/main/web.png)
 <h1 align="center">Hi 👋, I'm Farhana Yesmin</h1>
 <h3 align="center">A passionate MERN Stack Developer. ✨🎉🎀</h3>
 
